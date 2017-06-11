@@ -3,7 +3,7 @@ title: Home
 ---
 
 # Welcome
-My name is Alex. I help people. I am a medical student at Midwestern University, Glendale.
+My name is Alex. I help people. I am a medical student at Midwestern University, Glendale. I am also a health systems researcher.
 
 
 ## FAQ
